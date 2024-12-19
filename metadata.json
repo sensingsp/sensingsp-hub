@@ -1,0 +1,80 @@
+{
+  "environments": [
+    {
+      "name": "CarinCity",
+      "description": "A city environment for automotive simulations",
+      "path": "environments/CarinCity.blend"
+    },
+    {
+      "name": "Munich",
+      "description": "A detailed environment based on Munich city",
+      "path": "environments/munich.blend"
+    },
+    {
+      "name": "Paris",
+      "description": "A Paris cityscape environment",
+      "path": "environments/paris.blend"
+    },
+    {
+      "name": "Simple Street",
+      "description": "A basic street scene",
+      "path": "environments/simple_street.blend"
+    },
+    {
+      "name": "Simple Street with Cars",
+      "description": "A street environment with parked cars",
+      "path": "environments/simple_street_with_cars.blend"
+    }
+  ],
+  "vehicles": [
+    {
+      "name": "Mercedes",
+      "description": "A model of a Mercedes vehicle",
+      "path": "vehicles/Mercedes.blend"
+    },
+    {
+      "name": "Truck",
+      "description": "A model of a truck",
+      "path": "vehicles/Truck.blend"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Cylinders",
+      "description": "Cylinder shapes for testing",
+      "path": "objects/Cylinders.blend"
+    },
+    {
+      "name": "Left Hand",
+      "description": "A model of a left hand",
+      "path": "objects/LeftHand.blend"
+    },
+    {
+      "name": "Right Hand",
+      "description": "A model of a right hand",
+      "path": "objects/RightHand.blend"
+    },
+    {
+      "name": "Sitting Alien",
+      "description": "An alien sitting pose model",
+      "path": "objects/SittingAlien.blend"
+    }
+  ],
+  "animations": [
+    {
+      "name": "Hand Animation",
+      "description": "Hand animation sequence",
+      "path": "animations/Hand.blend"
+    },
+    {
+      "name": "Man Flat Fall",
+      "description": "A man falling animation",
+      "path": "animations/ManFlatFall.blend"
+    },
+    {
+      "name": "Walking Man",
+      "description": "Animation of a walking man",
+      "path": "animations/WalkingMan.blend"
+    }
+  ]
+}

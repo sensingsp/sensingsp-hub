@@ -60,7 +60,7 @@
       "path": "objects/SittingAlien.blend"
     }
   ],
-  "animations": [
+  "animation": [
     {
       "name": "Hand",
       "description": "Hand animation sequence",

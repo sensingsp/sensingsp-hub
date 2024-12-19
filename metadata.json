@@ -64,17 +64,17 @@
     {
       "name": "Hand",
       "description": "Hand animation sequence",
-      "path": "animations/Hand.blend"
+      "path": "animation/Hand.blend"
     },
     {
       "name": "ManFlatFall",
       "description": "A man falling animation",
-      "path": "animations/ManFlatFall.blend"
+      "path": "animation/ManFlatFall.blend"
     },
     {
       "name": "WalkingMan",
       "description": "Animation of a walking man",
-      "path": "animations/WalkingMan.blend"
+      "path": "animation/WalkingMan.blend"
     }
   ]
 }

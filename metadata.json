@@ -16,12 +16,12 @@
       "path": "environments/paris.blend"
     },
     {
-      "name": "Simple Street",
+      "name": "Simple_Street",
       "description": "A basic street scene",
       "path": "environments/simple_street.blend"
     },
     {
-      "name": "Simple Street with Cars",
+      "name": "Simple_Street_with_Cars",
       "description": "A street environment with parked cars",
       "path": "environments/simple_street_with_cars.blend"
     }
@@ -45,34 +45,34 @@
       "path": "objects/Cylinders.blend"
     },
     {
-      "name": "Left Hand",
+      "name": "LeftHand",
       "description": "A model of a left hand",
       "path": "objects/LeftHand.blend"
     },
     {
-      "name": "Right Hand",
+      "name": "RightHand",
       "description": "A model of a right hand",
       "path": "objects/RightHand.blend"
     },
     {
-      "name": "Sitting Alien",
+      "name": "SittingAlien",
       "description": "An alien sitting pose model",
       "path": "objects/SittingAlien.blend"
     }
   ],
   "animations": [
     {
-      "name": "Hand Animation",
+      "name": "Hand",
       "description": "Hand animation sequence",
       "path": "animations/Hand.blend"
     },
     {
-      "name": "Man Flat Fall",
+      "name": "ManFlatFall",
       "description": "A man falling animation",
       "path": "animations/ManFlatFall.blend"
     },
     {
-      "name": "Walking Man",
+      "name": "WalkingMan",
       "description": "Animation of a walking man",
       "path": "animations/WalkingMan.blend"
     }

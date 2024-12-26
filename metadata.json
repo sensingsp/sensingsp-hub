@@ -67,6 +67,11 @@
       "path": "animation/Hand.blend"
     },
     {
+      "name": "HandFastUpSlowDown",
+      "description": "Hand animation sequence 2",
+      "path": "animation/Hand_FastUpSlowDown.blend"
+    },
+    {
       "name": "ManFlatFall",
       "description": "A man falling animation",
       "path": "animation/ManFlatFall.blend"

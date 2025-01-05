@@ -38,7 +38,7 @@
       "path": "vehicles/Truck.blend"
     }
   ],
-  "objects": [
+  "obstacles": [
     {
       "name": "Cylinders",
       "description": "Cylinder shapes for testing",
@@ -47,17 +47,17 @@
     {
       "name": "LeftHand",
       "description": "A model of a left hand",
-      "path": "objects/LeftHand.blend"
+      "path": "obstacles/LeftHand.blend"
     },
     {
       "name": "RightHand",
       "description": "A model of a right hand",
-      "path": "objects/RightHand.blend"
+      "path": "obstacles/RightHand.blend"
     },
     {
       "name": "SittingAlien",
       "description": "An alien sitting pose model",
-      "path": "objects/SittingAlien.blend"
+      "path": "obstacles/SittingAlien.blend"
     }
   ],
   "animation": [

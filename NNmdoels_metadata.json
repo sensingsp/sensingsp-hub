@@ -1,0 +1,10 @@
+{
+  "models": [
+    {
+      "model": "ssp.ai.radarML.HandGestureMisoCNN.MultiInputModel(12)",
+      "best loss": 0.0002655,
+      "best loss epoch": 25,
+      "path": "PreTrainedNN/HandGesture.pth"
+    }
+  ]
+}

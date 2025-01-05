@@ -24,6 +24,11 @@
       "name": "Simple_Street_with_Cars",
       "description": "A street environment with parked cars",
       "path": "environments/simple_street_with_cars.blend"
+    },
+    {
+      "name": "CarGuardRail",
+      "description": "A Car with Guard Rail for Multipath interference",
+      "path": "environments/CarGuardRail.blend"
     }
   ],
   "vehicles": [

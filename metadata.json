@@ -42,7 +42,7 @@
     {
       "name": "Cylinders",
       "description": "Cylinder shapes for testing",
-      "path": "objects/Cylinders.blend"
+      "path": "obstacles/Cylinders.blend"
     },
     {
       "name": "LeftHand",

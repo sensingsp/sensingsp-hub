@@ -10,11 +10,18 @@
       "path": "PreTrainedNN/HandGesture.pth"
     },
     {
-      "name": "HumanHealthMonitoring ConvAE_BiLSTM",
+      "name": "HumanHealthMonitoring ConvAE_BiLSTM 800",
       "model": "ssp.ai.radarML.HumanHealthMonitoringConvAE_BiLSTM.Layer2_HumanHM()",
       "best loss": 14,
       "epoch": 800,
       "path": "PreTrainedNN/HumanHealthMonitoringConvAE_BiLSTM_Wavelet.pth"
+    },
+    {
+      "name": "HumanHealthMonitoring ConvAE_BiLSTM",
+      "model": "ssp.ai.radarML.HumanHealthMonitoringConvAE_BiLSTM.Layer2_HumanHM()",
+      "best loss": 6.5,
+      "epoch": 5000,
+      "path": "PreTrainedNN/HumanHealthMonitoringConvAE_BiLSTM_Wavelet2.pth"
     }
   ]
 }

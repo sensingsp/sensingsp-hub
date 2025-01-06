@@ -10,7 +10,7 @@
       "path": "PreTrainedNN/HandGesture.pth"
     },
     {
-      "name": "HandGesture MisoCNN",
+      "name": "HumanHealthMonitoring ConvAE_BiLSTM",
       "model": "ssp.ai.radarML.HumanHealthMonitoringConvAE_BiLSTM.Layer2_HumanHM()",
       "best loss": 14,
       "epoch": 800,

@@ -8,6 +8,13 @@
       "Validation dataset split": "random",
       "Validation dataset size": 0.2,
       "path": "PreTrainedNN/HandGesture.pth"
+    },
+    {
+      "name": "HandGesture MisoCNN",
+      "model": "ssp.ai.radarML.HumanHealthMonitoringConvAE_BiLSTM.Layer2_HumanHM()",
+      "best loss": 14,
+      "epoch": 800,
+      "path": "PreTrainedNN/HumanHealthMonitoringConvAE_BiLSTM_Wavelet.pth"
     }
   ]
 }

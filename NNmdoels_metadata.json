@@ -3,8 +3,8 @@
     {
       "name": "HandGesture MisoCNN",
       "model": "ssp.ai.radarML.HandGestureMisoCNN.MultiInputModel(12)",
-      "best loss": 0.0002655,
-      "best loss epoch": 25,
+      "best loss": 8.24e-05,
+      "best loss epoch": 21,
       "Validation dataset split": "random",
       "Validation dataset size": 0.2,
       "path": "PreTrainedNN/HandGesture.pth"

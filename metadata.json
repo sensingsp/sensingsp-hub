@@ -26,6 +26,11 @@
       "path": "environments/simple_street_with_cars.blend"
     },
     {
+      "name": "Bus_WifiSensing",
+      "description": "Kyungmin's Bus",
+      "path": "environments/Bus_WifiSensing.blend"
+    },
+    {
       "name": "CarGuardRail",
       "description": "A Car with Guard Rail for Multipath interference",
       "path": "environments/CarGuardRail.blend"

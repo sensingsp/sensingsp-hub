@@ -34,6 +34,16 @@
       "name": "CarGuardRail",
       "description": "A Car with Guard Rail for Multipath interference",
       "path": "environments/CarGuardRail.blend"
+    },
+    {
+      "name": "city_with_texture",
+      "description": "A textured city environment",
+      "path": "environments/city_with_texture.blend"
+    },
+    {
+      "name": "indoor_with_texture",
+      "description": "A textured indoor environment",
+      "path": "environments/indoor_with_texture.blend"
     }
   ],
   "vehicles": [

@@ -53,7 +53,7 @@
     {
       "name": "IntersectionAndBuildingsRaw",
       "description": "Raw urban intersection environment with surrounding buildings.",
-      "path": "environments/intersection_and_buildings_raw.blend"
+      "path": "environments/IntersectionAndBuildingsRaw.blend"
     }
   ],
   "vehicles": [

@@ -1,48 +1,48 @@
-{
+rewrite thsi: {
   "environments": [
     {
-      "name": "CarInCity",
-      "description": "Urban city environment for automotive sensing and simulation scenarios.",
-      "path": "environments/CarInCity.blend"
+      "name": "CarinCity",
+      "description": "A city environment for automotive simulations",
+      "path": "environments/CarinCity.blend"
     },
     {
       "name": "Munich",
-      "description": "Detailed urban environment modeled after Munich.",
+      "description": "A detailed environment based on Munich city",
       "path": "environments/munich.blend"
     },
     {
       "name": "Paris",
-      "description": "Urban cityscape environment based on Paris.",
+      "description": "A Paris cityscape environment",
       "path": "environments/paris.blend"
     },
     {
-      "name": "SimpleStreet",
-      "description": "Basic street scene for lightweight simulation setups.",
+      "name": "Simple_Street",
+      "description": "A basic street scene",
       "path": "environments/simple_street.blend"
     },
     {
-      "name": "SimpleStreetWithCars",
-      "description": "Street environment including parked vehicles.",
+      "name": "Simple_Street_with_Cars",
+      "description": "A street environment with parked cars",
       "path": "environments/simple_street_with_cars.blend"
     },
     {
-      "name": "BusWifiSensing",
-      "description": "Bus environment for WiFi sensing experiments.",
+      "name": "Bus_WifiSensing",
+      "description": "Kyungmin's Bus",
       "path": "environments/Bus_WifiSensing.blend"
     },
     {
       "name": "CarGuardRail",
-      "description": "Car and guardrail scenario for multipath and reflection studies.",
+      "description": "A Car with Guard Rail for Multipath interference",
       "path": "environments/CarGuardRail.blend"
     },
     {
-      "name": "CityWithTexture",
-      "description": "Textured urban environment for more realistic scene rendering.",
+      "name": "city_with_texture",
+      "description": "A textured city environment",
       "path": "environments/city_with_texture.blend"
     },
     {
-      "name": "IndoorWithTexture",
-      "description": "Textured indoor environment for indoor sensing simulations.",
+      "name": "indoor_with_texture",
+      "description": "A textured indoor environment",
       "path": "environments/indoor_with_texture.blend"
     },
     {
@@ -59,12 +59,12 @@
   "vehicles": [
     {
       "name": "Mercedes",
-      "description": "Mercedes vehicle model.",
+      "description": "A model of a Mercedes vehicle",
       "path": "vehicles/Mercedes.blend"
     },
     {
       "name": "Truck",
-      "description": "Truck vehicle model.",
+      "description": "A model of a truck",
       "path": "vehicles/Truck.blend"
     },
     {
@@ -76,45 +76,46 @@
   "obstacles": [
     {
       "name": "Cylinders",
-      "description": "Cylinder obstacle set for testing and calibration.",
+      "description": "Cylinder shapes for testing",
       "path": "obstacles/Cylinders.blend"
     },
     {
       "name": "LeftHand",
-      "description": "Left hand model for close-range sensing experiments.",
+      "description": "A model of a left hand",
       "path": "obstacles/LeftHand.blend"
     },
     {
       "name": "RightHand",
-      "description": "Right hand model for close-range sensing experiments.",
+      "description": "A model of a right hand",
       "path": "obstacles/RightHand.blend"
     },
     {
       "name": "SittingAlien",
-      "description": "Seated alien character model for obstacle and target testing.",
+      "description": "An alien sitting pose model",
       "path": "obstacles/SittingAlien.blend"
     }
   ],
   "animation": [
     {
       "name": "Hand",
-      "description": "Hand motion animation sequence.",
+      "description": "Hand animation sequence",
       "path": "animation/Hand.blend"
     },
     {
       "name": "HandFastUpSlowDown",
-      "description": "Hand animation with fast upward motion and slow downward motion.",
+      "description": "Hand animation sequence 2",
       "path": "animation/Hand_FastUpSlowDown.blend"
     },
     {
       "name": "ManFlatFall",
-      "description": "Human falling animation sequence.",
+      "description": "A man falling animation",
       "path": "animation/ManFlatFall.blend"
     },
     {
       "name": "WalkingMan",
-      "description": "Walking human animation sequence.",
+      "description": "Animation of a walking man",
       "path": "animation/WalkingMan.blend"
     }
   ]
 }
+

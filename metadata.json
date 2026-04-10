@@ -1,104 +1,119 @@
 {
   "environments": [
     {
-      "name": "CarinCity",
-      "description": "A city environment for automotive simulations",
-      "path": "environments/CarinCity.blend"
+      "name": "CarInCity",
+      "description": "Urban city environment for automotive sensing and simulation scenarios.",
+      "path": "environments/CarInCity.blend"
     },
     {
       "name": "Munich",
-      "description": "A detailed environment based on Munich city",
+      "description": "Detailed urban environment modeled after Munich.",
       "path": "environments/munich.blend"
     },
     {
       "name": "Paris",
-      "description": "A Paris cityscape environment",
+      "description": "Urban cityscape environment based on Paris.",
       "path": "environments/paris.blend"
     },
     {
-      "name": "Simple_Street",
-      "description": "A basic street scene",
+      "name": "SimpleStreet",
+      "description": "Basic street scene for lightweight simulation setups.",
       "path": "environments/simple_street.blend"
     },
     {
-      "name": "Simple_Street_with_Cars",
-      "description": "A street environment with parked cars",
+      "name": "SimpleStreetWithCars",
+      "description": "Street environment including parked vehicles.",
       "path": "environments/simple_street_with_cars.blend"
     },
     {
-      "name": "Bus_WifiSensing",
-      "description": "Kyungmin's Bus",
+      "name": "BusWifiSensing",
+      "description": "Bus environment for WiFi sensing experiments.",
       "path": "environments/Bus_WifiSensing.blend"
     },
     {
       "name": "CarGuardRail",
-      "description": "A Car with Guard Rail for Multipath interference",
+      "description": "Car and guardrail scenario for multipath and reflection studies.",
       "path": "environments/CarGuardRail.blend"
     },
     {
-      "name": "city_with_texture",
-      "description": "A textured city environment",
+      "name": "CityWithTexture",
+      "description": "Textured urban environment for more realistic scene rendering.",
       "path": "environments/city_with_texture.blend"
     },
     {
-      "name": "indoor_with_texture",
-      "description": "A textured indoor environment",
+      "name": "IndoorWithTexture",
+      "description": "Textured indoor environment for indoor sensing simulations.",
       "path": "environments/indoor_with_texture.blend"
+    },
+    {
+      "name": "TrafficSignalGantry",
+      "description": "Traffic signal gantry asset for urban roadside and intersection scenarios.",
+      "path": "environments/TrafficSignalGantry.blend"
+    },
+    {
+      "name": "IntersectionAndBuildingsRaw",
+      "description": "Raw urban intersection environment with surrounding buildings.",
+      "path": "environments/intersection_and_buildings_raw.blend"
     }
   ],
   "vehicles": [
     {
       "name": "Mercedes",
-      "description": "A model of a Mercedes vehicle",
+      "description": "Mercedes vehicle model.",
       "path": "vehicles/Mercedes.blend"
     },
     {
       "name": "Truck",
-      "description": "A model of a truck",
+      "description": "Truck vehicle model.",
       "path": "vehicles/Truck.blend"
+    },
+    {
+      "name": "CarBugatti",
+      "description": "Bugatti car model for vehicle simulation scenarios.",
+      "path": "vehicles/Car_Bugatti.blend"
     }
   ],
   "obstacles": [
     {
       "name": "Cylinders",
-      "description": "Cylinder shapes for testing",
+      "description": "Cylinder obstacle set for testing and calibration.",
       "path": "obstacles/Cylinders.blend"
     },
     {
       "name": "LeftHand",
-      "description": "A model of a left hand",
+      "description": "Left hand model for close-range sensing experiments.",
       "path": "obstacles/LeftHand.blend"
     },
     {
       "name": "RightHand",
-      "description": "A model of a right hand",
+      "description": "Right hand model for close-range sensing experiments.",
       "path": "obstacles/RightHand.blend"
     },
     {
       "name": "SittingAlien",
-      "description": "An alien sitting pose model",
+      "description": "Seated alien character model for obstacle and target testing.",
       "path": "obstacles/SittingAlien.blend"
     }
   ],
   "animation": [
     {
       "name": "Hand",
-      "description": "Hand animation sequence",
+      "description": "Hand motion animation sequence.",
       "path": "animation/Hand.blend"
     },
     {
       "name": "HandFastUpSlowDown",
-      "description": "Hand animation sequence 2",
+      "description": "Hand animation with fast upward motion and slow downward motion.",
       "path": "animation/Hand_FastUpSlowDown.blend"
     },
     {
       "name": "ManFlatFall",
-      "description": "A man falling animation",
+      "description": "Human falling animation sequence.",
       "path": "animation/ManFlatFall.blend"
     },
     {
       "name": "WalkingMan",
-      "description": "Animation of a walking man",
+      "description": "Walking human animation sequence.",
       "path": "animation/WalkingMan.blend"
     }
   ]

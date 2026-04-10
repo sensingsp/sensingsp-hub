@@ -71,6 +71,11 @@
       "name": "CarBugatti",
       "description": "Bugatti car model for vehicle simulation scenarios.",
       "path": "vehicles/Car_Bugatti.blend"
+    },
+    {
+      "name": "CarLowPoly",
+      "description": "Low Poly car model for vehicle simulation scenarios.",
+      "path": "vehicles/CarLowPoly.blend"
     }
   ],
   "obstacles": [

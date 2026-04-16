@@ -120,7 +120,51 @@
       "name": "WalkingMan",
       "description": "Animation of a walking man",
       "path": "animation/WalkingMan.blend"
+    },
+    {
+      "name": "BrutalToHappyWalking",
+      "description": "Mixamo walking transition animation",
+      "path": "animation/BrutalToHappyWalking.blend"
+    },
+    {
+      "name": "CatwalkWalk",
+      "description": "Mixamo catwalk walk animation",
+      "path": "animation/CatwalkWalk.blend"
+    },
+    {
+      "name": "Climbing",
+      "description": "Mixamo climbing animation",
+      "path": "animation/Climbing.blend"
+    },
+    {
+      "name": "JumpingDown",
+      "description": "Mixamo jumping down animation",
+      "path": "animation/JumpingDown.blend"
+    },
+    {
+      "name": "SneakWalk",
+      "description": "Mixamo sneak walk animation",
+      "path": "animation/SneakWalk.blend"
+    },
+    {
+      "name": "StandingWalkLeft",
+      "description": "Mixamo standing walk left animation",
+      "path": "animation/StandingWalkLeft.blend"
+    },
+    {
+      "name": "TwistDance",
+      "description": "Mixamo twist dance animation",
+      "path": "animation/TwistDance.blend"
+    },
+    {
+      "name": "WalkInCircle",
+      "description": "Mixamo walk in circle animation",
+      "path": "animation/WalkInCircle.blend"
+    },
+    {
+      "name": "Walking_new",
+      "description": "Mixamo walking animation",
+      "path": "animation/Walking_new.blend"
     }
   ]
 }
-

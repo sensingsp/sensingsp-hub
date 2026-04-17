@@ -180,6 +180,11 @@
       "name": "Standing1HCastSpell01",
       "description": "Mixamo standing one-hand cast spell animation",
       "path": "animation/Standing1HCastSpell01.blend"
-    }
+    },
+    {
+  "name": "CarDoorOpen",
+  "description": "Car door opening animation",
+  "path": "animation/CarDoorOpen.blend"
+}
   ]
 }

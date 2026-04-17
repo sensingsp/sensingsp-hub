@@ -165,6 +165,21 @@
       "name": "Walking_new",
       "description": "Mixamo walking animation",
       "path": "animation/Walking_new.blend"
+    },
+    {
+      "name": "BracedHangHopUp",
+      "description": "Mixamo braced hang hop up animation",
+      "path": "animation/BracedHangHopUp.blend"
+    },
+    {
+      "name": "InvertedDoubleKickToKipUp",
+      "description": "Mixamo inverted double kick to kip up animation",
+      "path": "animation/InvertedDoubleKickToKipUp.blend"
+    },
+    {
+      "name": "Standing1HCastSpell01",
+      "description": "Mixamo standing one-hand cast spell animation",
+      "path": "animation/Standing1HCastSpell01.blend"
     }
   ]
 }
